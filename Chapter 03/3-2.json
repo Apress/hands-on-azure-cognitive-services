@@ -1,0 +1,86 @@
+[
+  {
+    "rectangle": {
+      "x": 6,
+      "y": 390,
+      "w": 48,
+      "h": 40
+    },
+    "object": "footwear",
+    "confidence": 0.513
+  },
+  {
+    "rectangle": {
+      "x": 104,
+      "y": 104,
+      "w": 127,
+      "h": 323
+    },
+    "object": "person",
+    "confidence": 0.763
+  },
+  {
+    "rectangle": {
+      "x": 174,
+      "y": 236,
+      "w": 113,
+      "h": 74
+    },
+    "object": "Laptop",
+    "parent": {
+      "object": "computer",
+      "confidence": 0.56
+    },
+    "confidence": 0.553
+  },
+  {
+    "rectangle": {
+      "x": 351,
+      "y": 331,
+      "w": 154,
+      "h": 99
+    },
+    "object": "seating",
+    "confidence": 0.525
+  },
+  {
+    "rectangle": {
+      "x": 0,
+      "y": 101,
+      "w": 174,
+      "h": 329
+    },
+    "object": "person",
+    "confidence": 0.855
+  },
+  {
+    "rectangle": {
+      "x": 223,
+      "y": 99,
+      "w": 199,
+      "h": 322
+    },
+    "object": "person",
+    "confidence": 0.725
+  },
+  {
+    "rectangle": {
+      "x": 154,
+      "y": 191,
+      "w": 387,
+      "h": 218
+    },
+    "object": "seating",
+    "confidence": 0.679
+  },
+  {
+    "rectangle": {
+      "x": 111,
+      "y": 275,
+      "w": 264,
+      "h": 151
+    },
+    "object": "table",
+    "confidence": 0.601
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "faceId": "fef6dba7-6d8d-4825-aa08-8417aa29b563",
+    "faceRectangle": {
+      "top": 83,
+      "left": 92,
+      "width": 130,
+      "height": 130
+    },
+    "faceAttributes": {
+      "hair": {
+        "bald": 0.1,
+        "invisible": false,
+        "hairColor": [
+          {
+            "color": "black",
+            "confidence": 0.99
+          },
+          {
+            "color": "brown",
+            "confidence": 0.65
+          },
+          {
+            "color": "gray",
+            "confidence": 0.52
+          },
+          {
+            "color": "other",
+            "confidence": 0.44
+          },
+          {
+            "color": "blond",
+            "confidence": 0.11
+          },
+          {
+            "color": "red",
+            "confidence": 0.03
+          },
+          {
+            "color": "white",
+            "confidence": 0.0
+          }
+        ]
+      },
+      "smile": 0.999,
+      "headPose": {
+        "pitch": -0.8,
+        "roll": -1.8,
+        "yaw": -8.6
+      },
+      "gender": "male",
+      "age": 41.0,
+      "facialHair": {
+        "moustache": 0.1,
+        "beard": 0.1,
+        "sideburns": 0.1
+      },
+      "glasses": "ReadingGlasses",
+      "makeup": {
+        "eyeMakeup": false,
+        "lipMakeup": false
+      },
+      "emotion": {
+        "anger": 0.0,
+        "contempt": 0.0,
+        "disgust": 0.0,
+        "fear": 0.0,
+        "happiness": 0.999,
+        "neutral": 0.001,
+        "sadness": 0.0,
+        "surprise": 0.0
+      },
+      "occlusion": {
+        "foreheadOccluded": false,
+        "eyeOccluded": false,
+        "mouthOccluded": false
+      },
+      "accessories": [],
+      "blur": {
+        "blurLevel": "medium",
+        "value": 0.63
+      },
+      "exposure": {
+        "exposureLevel": "overExposure",
+        "value": 0.82
+      },
+      "noise": {
+        "noiseLevel": "medium",
+        "value": 0.39
+      }
+    },
+    "faceLandmarks": {
+      "pupilLeft": {
+        "x": 130.0,
+        "y": 120.2
+      },
+      "pupilRight": {
+        "x": 184.2,
+        "y": 117.2
+      },
+      "noseTip": {
+        "x": 156.5,
+        "y": 153.2
+      },
+      "mouthLeft": {
+        "x": 128.0,
+        "y": 180.4
+      },
+      "mouthRight": {
+        "x": 183.9,
+        "y": 177.6
+      },
+      "eyebrowLeftOuter": {
+        "x": 110.7,
+        "y": 110.2
+      },
+      "eyebrowLeftInner": {
+        "x": 146.7,
+        "y": 110.1
+      },
+      "eyeLeftOuter": {
+        "x": 120.8,
+        "y": 122.1
+      },
+      "eyeLeftTop": {
+        "x": 128.5,
+        "y": 116.5
+      },
+      "eyeLeftBottom": {
+        "x": 129.1,
+        "y": 123.4
+      },
+      "eyeLeftInner": {
+        "x": 136.9,
+        "y": 120.9
+      },
+      "eyebrowRightInner": {
+        "x": 167.4,
+        "y": 109.1
+      },
+      "eyebrowRightOuter": {
+        "x": 201.1,
+        "y": 107.3
+      },
+      "eyeRightInner": {
+        "x": 176.2,
+        "y": 119.3
+      },
+      "eyeRightTop": {
+        "x": 183.1,
+        "y": 113.8
+      },
+      "eyeRightBottom": {
+        "x": 184.4,
+        "y": 120.6
+      },
+      "eyeRightOuter": {
+        "x": 192.2,
+        "y": 117.7
+      },
+      "noseRootLeft": {
+        "x": 148.6,
+        "y": 122.2
+      },
+      "noseRootRight": {
+        "x": 164.1,
+        "y": 121.8
+      },
+      "noseLeftAlarTop": {
+        "x": 144.6,
+        "y": 143.8
+      },
+      "noseRightAlarTop": {
+        "x": 169.5,
+        "y": 142.9
+      },
+      "noseLeftAlarOutTip": {
+        "x": 137.6,
+        "y": 155.3
+      },
+      "noseRightAlarOutTip": {
+        "x": 175.8,
+        "y": 153.2
+      },
+      "upperLipTop": {
+        "x": 155.1,
+        "y": 170.1
+      },
+      "upperLipBottom": {
+        "x": 155.4,
+        "y": 175.1
+      },
+      "underLipTop": {
+        "x": 154.8,
+        "y": 185.7
+      },
+      "underLipBottom": {
+        "x": 155.5,
+        "y": 192.7
+      }
+    }
+  }
+]
